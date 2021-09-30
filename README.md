@@ -1,8 +1,19 @@
 # Estimating Ocean Surface Currents With Machine Learning
 
-Code to acompany the following paper:
+### Citing this Code
 
-Sinha, Anirban and Ryan Abernathey, 2021: _Estimating Ocean Surface Currents With Machine Learning_.
+[![DOI](https://zenodo.org/badge/233659202.svg)](https://zenodo.org/badge/latestdoi/233659202)
+
+Please cite this code as
+
+> Sinha, Anirban, & Abernathey, Ryan. (2021). _Code for Estimating Ocean Surface Currents With Machine Learning (1.0.0)_. Zenodo. https://doi.org/10.5281/zenodo.5541507
+
+
+### The Paper
+
+This code accompanies the following paper:
+
+> Sinha, Anirban & Abernathey, Ryan. (2021): _Estimating Ocean Surface Currents With Machine Learning_.
 Frontiers in Marine Science vol. 8, p. 612.
 
 **URL**: <https://www.frontiersin.org/article/10.3389/fmars.2021.672477>
