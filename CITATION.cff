@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Sinha"
+  given-names: "Anirban"
+  orcid: "https://orcid.org/0000-0002-7122-3549"
+- family-names: "Abernathey"
+  given-names: "Ryan"
+  orcid: "https://orcid.org/0000-0001-5999-4917"
+title: "Code for Estimating Ocean Surface Currents With Machine Learning"
+version: 1.0.0
+date-released: 2021-09-30
+url: "https://github.com/ocean-transport/surface_currents_ml"
